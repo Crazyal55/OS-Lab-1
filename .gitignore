@@ -10,3 +10,7 @@ Module.symvers
 
 # Compiled binaries
 process_generator
+
+# Test scripts (not needed for grader)
+auto_test.sh
+auto_screenshot.sh
