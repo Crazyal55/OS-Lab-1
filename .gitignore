@@ -1,0 +1,12 @@
+# Build artifacts
+*.o
+*.ko
+*.mod.c
+*.mod.o
+.module-common.o
+.modules.order.cmd
+Module.symvers
+*.cmd
+
+# Compiled binaries
+process_generator
